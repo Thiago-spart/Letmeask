@@ -45,18 +45,16 @@ $ yarn start
 
 The App will be using this address from your browser http://localhost:3000.
 
-It'll be necessary a account in [Firebase](https://firebase.google.com/) that will allow you to use Realtime Database.
+It'll be necessary a account in [Firebase](https://firebase.google.com/) that will allow you to use a Realtime Database.
 
 ## 💻 Project
 
 Letmeask is perfect for streamers to make a Q&A Room with their audience, in a organized and democratic way.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 This project was build in the **[Next Level Week Together](https://nextlevelweek.com/)**, in 20 to 27 july 2021.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
 You can see the project's layout in the link below:
 
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
@@ -65,9 +63,8 @@ It's necessary an account to access the project on [Figma](http://figma.com/).
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 This project uses MIT license. Check the file [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Make 💜 by Rocketseat 👋🏻 [Check our community](https://discord.gg/gKUVrzrPrU)
+Make with 💜 by Rocketseat 👋🏻 [Check our community](https://discord.gg/gKUVrzrPrU)
