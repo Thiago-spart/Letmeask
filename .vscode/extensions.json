@@ -1,0 +1,17 @@
+{
+	"recommendations": [
+		"bierner.markdown-preview-github-styles",
+		"coenraads.bracket-pair-colorizer-2",
+		"dbaeumer.vscode-eslint",
+		"editorconfig.editorconfig",
+		"eamodio.gitlens",
+		"formulahendry.auto-rename-tag",
+		"gruntfuggly.todo-tree",
+		"irongeek.vscode-env",
+		"jpoissonnier.vscode-styled-components",
+		"pkief.material-icon-theme",
+		"naumovs.color-highlight",
+		"streetsidesoftware.code-spell-checker",
+		"streetsidesoftware.code-spell-checker-portuguese-brazilian"
+	]
+}
